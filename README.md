@@ -1,4 +1,4 @@
-# Personal_Portfolio
+# PersonalPortfolio
 # Introduction
 This is a Mini Project focused on the creation of a Personal Portfolio Website, a dynamic digital platform tailored to showcase an individual's skills, accomplishments, and professional journey. In today's digital age, a compelling online presence is paramount for individuals seeking to stand out in their fields and attract opportunities. This mini project aims to equip students with the skills necessary to design and develop personalized portfolio websites that effectively communicate their unique value propositions.
 The objective of this mini project is twofold: first, to provide with hands-on experience in web design and development, and second, to empower them to curate a digital portfolio that reflects their academic achievements, extracurricular activities, and career aspirations. By engaging in this project, we will explore the intersection of creativity and technology, learning to leverage modern web development tools and techniques to craft engaging and user-friendly websites.
@@ -7,25 +7,25 @@ In summary, the Personal Portfolio Website Mini Project offers students a unique
 
 # Preview
 ### Home Page
-![image](https://github.com/AvNiVaTs/Personal_Portfolio/assets/120127135/2ef3e731-b225-4611-9a75-573023b6c317)
+![image](https://github.com/AvNiVaTs/PersonalPortfolio/assets/120127135/2ef3e731-b225-4611-9a75-573023b6c317)
 
-### A demo that its responsive
-![image](https://github.com/AvNiVaTs/Personal_Portfolio/assets/120127135/9deec250-b18f-465f-aac7-00ccdf97fe6d)
+### A demo that it's responsive
+![image](https://github.com/AvNiVaTs/PersonalPortfolio/assets/120127135/9deec250-b18f-465f-aac7-00ccdf97fe6d)
 
 ### About
-![image](https://github.com/AvNiVaTs/Personal_Portfolio/assets/120127135/1d065310-7aaf-4606-b72f-7c87b2eb2d27)
+![image](https://github.com/AvNiVaTs/PersonalPortfolio/assets/120127135/1d065310-7aaf-4606-b72f-7c87b2eb2d27)
 
 ### Education
-![image](https://github.com/AvNiVaTs/Personal_Portfolio/assets/120127135/fd1e32b4-a38f-42a3-8716-84ac3a07d771)
+![image](https://github.com/AvNiVaTs/PersonalPortfolio/assets/120127135/fd1e32b4-a38f-42a3-8716-84ac3a07d771)
 
 ### Skills
-![image](https://github.com/AvNiVaTs/Personal_Portfolio/assets/120127135/87a618d1-f2b9-4545-9885-180f7d2d9478)
+![image](https://github.com/AvNiVaTs/PersonalPortfolio/assets/120127135/87a618d1-f2b9-4545-9885-180f7d2d9478)
 
 ### Contact
-![image](https://github.com/AvNiVaTs/Personal_Portfolio/assets/120127135/b38db5aa-453a-4d7b-a29b-d834d8a270c3)
+![image](https://github.com/AvNiVaTs/PersonalPortfolio/assets/120127135/b38db5aa-453a-4d7b-a29b-d834d8a270c3)
 
 ### Footer
-![image](https://github.com/AvNiVaTs/Personal_Portfolio/assets/120127135/059e8130-cfba-48df-a62e-870d4c773bcf)
+![image](https://github.com/AvNiVaTs/PersonalPortfolio/assets/120127135/059e8130-cfba-48df-a62e-870d4c773bcf)
 
 # Statement of Problem
 The objective of this Mini Project is to develop a Personal Portfolio Website utilizing **HTML, CSS, and JavaScript** exclusively. The primary problem revolves around designing and implementing a personalized digital platform that effectively showcases an individual's skills.
