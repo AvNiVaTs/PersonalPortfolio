@@ -49,37 +49,3 @@ window.onscroll = () =>{
     
     footer.classList.toggle('show-animate', this.innerHeight + this.scrollY >= document.scrollingElement.scrollHeight);
 }
-
-//Handling form Submission
-document.getElementById("emailForm").addEventListener("submit", async (event) => {
-  // Collect values from the form
-  const name = document.getElementById("name").value;
-  const email = document.getElementById("email").value;
-  const phone = document.getElementById("phone").value;
-  const subject = document.getElementById("subject").value;
-  const message = document.getElementById("message").value;
-
-  try {
-    const response = await fetch("http://localhost:3000/send-email", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json"
-      },
-      body: JSON.stringify({
-        to: email,
-        subject: subject,
-        message: `From: ${name}\nPhone: ${phone}\n\n${message}`
-      })
-    });
-
-    const result = await response.json();
-    if (result.success) {
-      alert("Email sent successfully!");
-    } else {
-      alert("Failed to send email: " + result.error);
-    }
-  } catch (error) {
-    console.error("Error:", error);
-    alert("An error occurred while sending the email.");
-  }
-});
