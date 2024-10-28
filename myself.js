@@ -52,8 +52,6 @@ window.onscroll = () =>{
 
 //Handling form Submission
 document.getElementById("emailForm").addEventListener("submit", async (event) => {
-  event.preventDefault(); // Prevent the form from reloading the page
-
   // Collect values from the form
   const name = document.getElementById("name").value;
   const email = document.getElementById("email").value;
